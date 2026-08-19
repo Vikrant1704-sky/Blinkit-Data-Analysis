@@ -64,6 +64,12 @@ Power BI file:
 - Low Fat products had the highest total sales by fat content.
 - The highest-selling item in my analysis was from the Canned category.
 
+## Power BI Dashboard
+
+I created this dashboard in Power BI to look at sales, outlet performance, item types and ratings.
+
+![Blinkit Dashboard](Images/Blinkit_Dashboard.png)
+
 ## Author
 
 Vikrant Sagar
